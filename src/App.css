@@ -1,4 +1,5 @@
-.heading__one {
-  color: red;
-  background-color: skyblue;
+.container {
+  display: flex;
+  width: max-content;
+  height: max-content;
 }
