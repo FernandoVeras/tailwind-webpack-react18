@@ -1,0 +1,19 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "taiwind webpack5 and react 18 first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fernando veras",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "babel-loader": "^8.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
